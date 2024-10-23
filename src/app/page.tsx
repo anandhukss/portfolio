@@ -1,6 +1,6 @@
 "use client";
 import HomeScreen from "@/components/Home";
-import ProgressBar from "@/components/ProgressBar";
+import ProgressBar from "@/components/ui/ProgressBar";
 import { useEffect, useState } from "react";
 
 export default function Home() {
